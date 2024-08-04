@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jackie Yang</h1>
 
-<h3 align="center">A software engineering / mediocre student at Southwest University</h3>
+<h3 align="center">A software engineering / mediocre student at Nanyang Technological University</h3>
 
 - 😄 I have a great interest in the back end development
 
