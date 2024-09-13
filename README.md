@@ -4,12 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Jackie Yang</h1>
 
-<h3 align="center">A mediocre student at Nanyang Technological University</h3>
-
-- 😄 I have a great interest in the back end development
-
-- 📫 How to reach me: **yang192827@163.com**
-
 <!--
 **litshang/litshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
